@@ -1,10 +1,16 @@
 ---
-title: "emily-adler1.github.io"
+title: "Emily Adler"
+image: media/IMG_4303.jpeg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: Email
+      href: mailto:eladler@wisc.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+PhD Candidate at the University of Wisconsin - Madison. I love crustaceans and the nitrogen cycle.
 
 ```{r}
 1 + 1
