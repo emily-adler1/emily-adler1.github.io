@@ -7,7 +7,7 @@ published-title: CV last updated
 engine: knitr
 freeze: false
 cv:
-  pdf: "/media/EMILY ADLER CV.pdf"
+  pdf: "/media/Adler_CV_Aug2026.pdf"
 ---
 
 ```{css, echo=FALSE}
